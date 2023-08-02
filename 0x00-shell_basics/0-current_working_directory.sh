@@ -1,2 +1,3 @@
 #!/bin/bash 
-echo $(pwd)
+${0%/*} 
+$(pwd)
