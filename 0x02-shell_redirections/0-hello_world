@@ -1,2 +1,2 @@
 #!/bim/bash
-echo 'Hello, World'
+echo -e 'Hello, World\n'
